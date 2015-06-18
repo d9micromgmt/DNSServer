@@ -1,4 +1,4 @@
-configuration Sample_xDnsServerZoneTransfer_TransferToAnyServer
+configuration DNSSERVER
 {
     param
     (
